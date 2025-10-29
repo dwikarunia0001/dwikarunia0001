@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Dwi Karunia Fitria Ningrum
+### Hi there 👋 I'm Dwi
 
 🎓 **Recent Informatics Engineering Graduate** | 💻 **Full-Stack Web Developer**  
 🌱 Currently deepening my skills through the **Perempuan Inovasi Scholarship 2025** (Full-Stack Web Dev Bootcamp)  
